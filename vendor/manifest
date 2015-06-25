@@ -107,6 +107,12 @@
 			"repository": "https://github.com/influxdb/influxdb",
 			"revision": "a78fef940c207d1993e2881a66e9ca1711d492f8",
 			"branch": "master"
+		},
+		{
+			"importpath": "github.com/kelseyhightower/envconfig",
+			"repository": "https://github.com/kelseyhightower/envconfig",
+			"revision": "4e0792c28c6af6d74af7bac93eedb34a29107010",
+			"branch": "master"
 		}
 	]
 }
